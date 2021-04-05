@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.johndoe.CustomerRest"},{"l":"com.johndoe.CustomerRest.repo"},{"l":"com.johndoe.CustomerRest.rest"},{"l":"com.johndoe.CustomerRest.service"}]
